@@ -1,5 +1,5 @@
 Personal Portfolio Website
-Welcome to my personal portfolio – a digital space that blends technology and photography to showcase who I am and what I build.
+Welcome to my personal portfolio, a digital space that blends technology and photography to showcase who I am and what I build.
 
 <!-- optional if you add a screenshot -->
 
@@ -8,9 +8,9 @@ This portfolio was built to showcase:
 
 My frontend development skills
 
-My love for visual storytelling through photography
+My love for photography
 
-Projects I've built and collaborated on
+Projects I've built 
 
 A bit of my personality, creativity, and curiosity
 
@@ -31,13 +31,12 @@ Responsive Design
 
 🧰 Skills visualized using animated progress bars
 
-📂 Project section (placeholder for now)
+📂 tech Project section (front end of a film production company)
 
-📷 Photography area (optional section for photo gallery)
+📷 Photography area (pixie set for photo gallery)
 
 📞 Contact section
 
-🌗 Optional theme switcher, mood mode, or Easter eggs for fun
 
 📱 Mobile-Friendly
 Designed with a mobile-first approach. The layout adjusts based on screen size, so it looks great on phones, tablets, and desktops.
