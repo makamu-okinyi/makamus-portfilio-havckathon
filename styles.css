@@ -692,7 +692,8 @@ h2 {
     overflow: hidden;
     aspect-ratio: 16/9;
     margin-bottom: 2rem;
-    width: 70%; /* Keep this if you want the image container to be 70% width */
+    width: 65%; 
+    margin: 0 auto 2rem;
 }
 
 .work-image img {
